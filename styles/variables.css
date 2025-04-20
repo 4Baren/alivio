@@ -1,1 +1,9 @@
-:root {}
+:root {
+    --co-white: #fff;
+    --co-green: #017f67;
+    --co-dark-green: #245852;
+    --co-text: #424242;
+    --co-card-num: #CCEBE2;
+    --co-card-title: #000;
+    --co-nav-menu: #292929;
+}
